@@ -1,0 +1,20 @@
+[
+  {
+    "name": "teclado",
+    "price": 8000,
+    "thumbnail": "https://www.muycomputer.com/wp-content/uploads/2019/03/Razer-BlackWidow-Elite-Review-1000x600.jpg",
+    "id": 1
+  },
+  {
+    "name": "audiculares",
+    "price": 16000,
+    "thumbnail": "https://www.emmesistemas.com/imgs/productos/productos34_1597.png",
+    "id": 2
+  },
+  {
+    "name": "celular",
+    "price": "50000",
+    "thumbnail": "https://www.portafolio.co/files/article_multimedia/uploads/2022/01/14/61e20149da74f.jpeg",
+    "id": 3
+  }
+]
